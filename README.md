@@ -12,12 +12,20 @@ To gain exposure to shell scripting and common Linux utilities for file and text
 <br>
 To learn how to solve security challenges through practice.
 <br>
-<h3>Repository Structure</h3>
+<h3>Repository Structure:</h3>
 <br>
 Each level of the challenge is documented in a separate folder with the following contents:
 <br>
 
 README.md: A summary of the challenge, what I learned, and the commands used.
 <br>
-
 solution.txt: Step-by-step breakdown of how I solved the level, including explanations for the commands.
+<br>
+
+<footer>
+  Netram Gurjar
+  <br>
+Sharing knowledge with love and passion for learning.
+  <br>
+❤️ Made with love for the Linux and open-source community ❤️
+</footer>
