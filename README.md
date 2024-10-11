@@ -1,7 +1,7 @@
 # OverTheWire-Linux-Journey
 Documenting my journey of solving OverTheWire Bandit challenges to learn Linux, shell scripting, and cybersecurity basics
 <br>
-The key goals of this project are:
+<h3>The key goals of this project are:</h3>
 <br>
 
 To improve my proficiency with the Linux command line.
@@ -12,7 +12,7 @@ To gain exposure to shell scripting and common Linux utilities for file and text
 <br>
 To learn how to solve security challenges through practice.
 <br>
-Repository Structure
+<h3>Repository Structure</h3>
 <br>
 Each level of the challenge is documented in a separate folder with the following contents:
 <br>
